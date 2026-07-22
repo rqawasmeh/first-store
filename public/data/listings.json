@@ -1,0 +1,38 @@
+[
+  {
+    "id": "seed-tshirt-1",
+    "name": "Vintage Tee #1",
+    "price": 15,
+    "image_url": "/listings/tshirt1-1.png",
+    "images": ["/listings/tshirt1-1.png", "/listings/tshirt1-2.png"],
+    "available": true,
+    "created_at": "2026-07-22T00:00:00.000Z"
+  },
+  {
+    "id": "seed-tshirt-2",
+    "name": "Vintage Tee #2",
+    "price": 15,
+    "image_url": "/listings/tshirt2-1.png",
+    "images": ["/listings/tshirt2-1.png", "/listings/tshirt2-2.png", "/listings/tshirt2-3.png"],
+    "available": true,
+    "created_at": "2026-07-22T00:00:01.000Z"
+  },
+  {
+    "id": "seed-tshirt-3",
+    "name": "Vintage Tee #3",
+    "price": 18,
+    "image_url": "/listings/tshirt3-1.png",
+    "images": ["/listings/tshirt3-1.png", "/listings/tshirt3-2.png"],
+    "available": true,
+    "created_at": "2026-07-22T00:00:02.000Z"
+  },
+  {
+    "id": "seed-cap-1",
+    "name": "Vintage Cap",
+    "price": 12,
+    "image_url": "/listings/cap1-1.png",
+    "images": ["/listings/cap1-1.png", "/listings/cap1-2.png", "/listings/cap1-3.png", "/listings/cap1-4.png"],
+    "available": true,
+    "created_at": "2026-07-22T00:00:03.000Z"
+  }
+]
